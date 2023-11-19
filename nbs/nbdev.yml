@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Teste"
+  site-url: "https://thaleshqs.github.io/Teste"
+  description: "(descrição)"
+  repo-branch: main
+  repo-url: "https://github.com/thaleshqs/Teste"
